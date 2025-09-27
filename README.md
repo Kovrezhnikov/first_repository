@@ -1,1 +1,2 @@
-# first_repository
+# html_example
+Пример простой веб-страницы
